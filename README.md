@@ -1,8 +1,8 @@
-(https://media.licdn.com/dms/image/D5616AQGoVLSFQ2Wakw/profile-displaybackgroundimage-shrink_350_1400/0/1706859570162?e=1712188800&v=beta&t=RzDMLNp21oAiqu5ajjRC3JXT0-NqK9KjqFw0JQcpq0M)
+![Assistant Programmer at National University](https://media.licdn.com/dms/image/D5616AQGoVLSFQ2Wakw/profile-displaybackgroundimage-shrink_350_1400/0/1706859570162?e=1712188800&v=beta&t=RzDMLNp21oAiqu5ajjRC3JXT0-NqK9KjqFw0JQcpq0M)
 
 ### Hi there 👋, I am Sobel Kanti Nath
 #### Assistant Programmer at National University
-![Assistant Programmer at National University](https://media.licdn.com/dms/image/D5616AQGoVLSFQ2Wakw/profile-displaybackgroundimage-shrink_350_1400/0/1706859570162?e=1712188800&v=beta&t=RzDMLNp21oAiqu5ajjRC3JXT0-NqK9KjqFw0JQcpq0M)
+
 
 Along with my degree I completed Laravel , Vue.js. C, C++,Java, Networking, SQL and the various technologies. I learnt has helped me develop my final year Thesis and Project called System and Method for Cyber Security Threat analysis of IoT device.
 It was during this project that I discovered that I am a team player.
